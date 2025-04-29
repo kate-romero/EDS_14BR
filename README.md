@@ -10,3 +10,5 @@ Portfolio of the work I have completed in EDS 124BR
 ## 4. [Mouse Octagon](https://youtu.be/0nWJwWA-Vzg)
 
 ## 5. [Monkey Catches Banana](https://youtu.be/DruQrBePg08)
+
+## 6. [Draw Shapes](https://youtu.be/IizapisV4eQ)
